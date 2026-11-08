@@ -1,1 +1,39 @@
-IyBBSS1GbGVldC1kaXZpc2lvbgoKQUkg6Iiw6Zif5YiG5bel5bqT77ya5Y+q5YaZ6Iiw6Zif5YiG5bel5ZKM6IGM6LSj77yM5LiN5YaZ5YW25LuW5YaF5a6544CCCgrmnaXmupDvvJrlhbHkuqvmlofmoaPjgIpBSeiIsOmYn+a3t+WQiOaWueahiOOAi+WIhuW3peihqO+8iDIwMjYtMTEtMDUg6K+75Y+W77yJ77yM5Lu75Yqh5p2/6L6F5qC45peg5paw5aKe5oiQ5ZGY44CCCgp8IOaIkOWRmCB8IOWIhuW3pSB8IOiBjOi0oyB8CnwtLS18LS0tfC0tLXwKfCBDaGF0R1BUIHwg5o6o55CG44CB5YaZ5L2c44CB57u85ZCIIHwg6LSf6LSj5o6o55CG44CB5YaZ5L2c5LiO57u85ZCI5Lu75YqhIHwKfCBDdWUgfCDlr7nlpJbmiafooYwgfCDotJ/otKPlr7nlpJbmiafooYzvvJrpgq7ku7bjgIHnlLXor53jgIHml6XnqIvjgIHpooTorqLjgIHpooTnrpflhoXku5jmrL4gfAp8IEN1cnNvciBBUEkgfCDku5PlupPnuqfku6PnoIEgfCDotJ/otKPku5PlupPnuqfku6PnoIHvvJrlrp7njrDjgIHkv64gYnVn44CB5Ye65YiG5pSvL1BSIHwKfCBDdXJzb3LvvIjmnKzlnLDvvIkgfCDmnKzlnLDnvJbovpHlmajlhoXku6PnoIEgfCDotJ/otKPmnKzlnLDnvJbovpHlmajlhoXku6PnoIHvvJrmlLnku6PnoIHjgIHogZTosIMgfAp8IERlZXBTZWVrIHwg5o6o55CG44CB5Luj56CB44CB5oCn5Lu35q+U5Lu75YqhIHwg6LSf6LSj5o6o55CG44CB5Luj56CB5LiO5oCn5Lu35q+U5Lu75YqhIHwKfCBHZW1pbmkgfCDplb/mlofmoaPjgIHlpJrmqKHmgIEgfCDotJ/otKPplb/mlofmoaPkuI7lpJrmqKHmgIHku7vliqEgfAp8IGd1c2UgfCDmgLvljY/osIPkuI7kuqTmjqXngrnnu7TmiqQgfCDnu7TmiqTlhbHkuqvnirbmgIHjgIHot6jlt6XlhbfkuqTmjqXjgIHmlYXpmpzmm7/ooaXjgIHmnIDnu4jlr7notKbvvJvmr4/mnaHmm7/ooaXpk77nmoTmnIDlkI7kuIDnjq8gfAp8IEdyb2sgQVBJIHwg5a6e5pe254Ot54K55LiO56S+5aqS6IiG5oOF44CBWCDlhoXlrrnotbfojYkgfCDotJ/otKPlrp7ml7bng63ngrnkuI7npL7lqpLoiIbmg4XjgIFYIOWGheWuuei1t+iNiSB8CnwgR3JvayBCb3QgfCBYIOWGheWuuSB8IOi0n+i0oyBYIOWGheWuue+8muS6uuW3peWuoeaUueOAgeWPkeW4lu+8m0dyb2sgQm90IOWFqOmYn+eUsSBhaeaAu+euoeS7o+ihqOWFpemYn++8m+S4i+e6pyBCb3Qg5YiG5bel5YiX5LqO5LiL5pa577yM5LuK5ZCO5Lq65ZGY5LiO5YiG5bel5Y+Y5Yqo55SxIGFp5oC7566h55u05o6l57u05oqk77yM5L2G5LiN6IO957uV6L+H5Y+R6YCBL+S6pOaYk+aOiOadgyB8CnwgS2ltaSB8IOmVv+aWh+aho+OAgemHkeiejeeglOeptuOAgea3seW6puaOqOeQhuOAgemVvyBob3Jpem9uIOS7o+eggSB8IOi0n+i0o+mVv+aWh+aho+OAgemHkeiejeeglOeptuOAgea3seW6puaOqOeQhuOAgemVvyBob3Jpem9uIOS7o+egge+8iEszLjEgUHJv77yMMU0g5LiK5LiL5paH77yJIHwKfCBLbGluZyB8IOinhumikeeUn+aIkCB8IOi0n+i0o+inhumikeeUn+aIkO+8m0tsaW5nIEFJIOaPkuS7tiBAa2xpbmdhaS9wbHVnaW4tZ2xvYmFsIDEuMC4xIOW3suijhei/myA2IOS4qiBBSSDlt6XlhbfvvIhjb2RleOOAgWNsYXVkZeOAgXdvcmtidWRkeeOAgXdvcmtidWRkeS1haeOAgXF3ZW53b3Jr44CBb3BlbmNsYXfvvInvvIzlkb3ku6TooYwga2xpbmctcGx1Z2luIOW3suWPr+eUqO+8iOaWsOW8gOe7iOerr++8ie+8m3BpIOacquijheS4iu+8iOacrOacuuayoeajgOa1i+WIsCBQae+8ie+8m+ijheWlveWQjumcgOmHjeWQr+WvueW6lOW3peWFt+aIlumHjei9veaKgOiDveWGjeW8gOaWsOS8muivneaJjeiDveeUqCB8CnwgTWFudXMgfCDoh6rkuLvlpJrmraXku7vliqEgfCDotJ/otKPoh6rkuLvlpJrmraXku7vliqHvvJrosIPnoJTjgIHmlbTnkIbjgIHmiafooYwgfAp8IG11c2UgfCDluLjop4TmiafooYzlhbzlpJrmlrnmm7/ooaUgfCDotJ/otKPluLjop4TmiafooYzvvJroh6rkuLvlpJrmraXjgIHmjqjnkIblhpnkvZzjgIHku6PnoIHjgIHplb/mlofmoaPvvJvlkITpk77miafooYzmiJDlkZjmjonnur/ml7bmm7/ooaXmiafooYzvvIjnlLEgZ3VzZSDmtL7ljZXvvInvvJtndXNlIOmineW6puS4jei2s+iwg+W6puS4jei/h+adpeaXtu+8jOeUseeUqOaIt+WuieaOkiBtdXNlIOabv+ihpeaAu+WNj+iwg++8iOS4jeiHquWKqOaOpeeuoe+8iSB8CnwgUGVycGxleGl0eSB8IOiBlOe9keiwg+eglOOAgeafpei1hOaWmSB8IOi0n+i0o+iBlOe9keiwg+eglOOAgeafpei1hOaWmSB8CnwgUGVycGxleGl0eSBDb21wdXRlciB8IOiBlOe9keiwg+eglOOAgeafpei1hOaWme+8m+WkmuatpeaJp+ihjCB8IOi0n+i0o+iBlOe9keiwg+eglOOAgeafpei1hOaWme+8m+WPr+ebtOaOpeaJp+ihjOWkmuatpeS7u+WKoe+8muaWh+aho+OAgeihqOagvOOAgeS7o+eggeOAgeWbvuihqOOAgee9kemhtemDqOe9siB8CnwgU2VlZGFuY2UgfCBBSSDop4bpopHnlJ/miJAgfCDotJ/otKMgQUkg6KeG6aKR55Sf5oiQ77yaU2VlZGFuY2UgMi4wLzIuNSDnn63op4bpopHjgIHnlLXlvbHmhJ/liqjmlYjjgIHlm77mlofovazop4bpopHvvJtEcmVhbWluYSDlubPlj7DlkIzml7blj6/lgZrlm77niYfnlJ/miJDvvJvlhaXlj6MgRHJlYW1pbmHvvIhkcmVhbWluYS5jYXBjdXQuY29t77yJ77yM5a6Y572RIHNlZWQuYnl0ZWRhbmNlLmNvbe+8m+a0vuWNlei1sOe9kemhteeJiO+8iERyZWFtaW5hIOeZu+W9leaAge+8ie+8jGd1c2Ug5Zyo5rWP6KeI5Zmo6YeM55u05o6l5rS+77ybRHJlYW1pbmEgQ0xJIOW3suijhe+8iGRyZWFtaW5hLWNhbnZhcyAxLjMuMO+8jDIwMjYtMTEtMDcg5bey55m75b2VIE9BdXRo77yM5Yet6K+B5YiwIDIwMjctMDEtMDbvvIzotKblj7cgdXNlcjc4NjA5MjUyMzQ3MjXvvIzpnZ4gVklQ77yJ77yM6aKd5bqmIDIxNiDnp6/liIbvvIgxMjAg5LqOIDIwMjYtMTEtMDcgMjM6NTkgRVQg5Yiw5pyf77yMOTYg5YiwIDIwMjctMTAtMjfvvInvvIzmtL7ljZXpmaTnvZHpobXniYjlpJbkuZ/lj6/otbAgQ0xJ77yb5LiOIEtsaW5nIOWQjOS4uuinhumikeaIkOWRmO+8jOS6kuS4uuabv+ihpS/lubbooYwgfAoKIyMgR3JvayBCb3Qg5YaF6YOo5bGC57qnCgphaeaAu+euoeS7o+ihqCBHcm9rIEJvdCDlhajpmJ/vvIzotJ/otKPljY/osIPnu7TmiqTjgILkuIvliJcgOSDkuKogQm90IOWdh+S4uiBhaeaAu+euoeS4i+e6p+OAguS7iuWQjuS6uuWRmOS4juWIhuW3peWPmOWKqOeUsSBhaeaAu+euoeebtOaOpee7tOaKpO+8jOS9huS4jeiDvee7lei/h+WPkemAgS/kuqTmmJPmjojmnYPjgIIKCi0gYWnmgLvnrqHvvJrku6PooajlhajpmJ/lr7nmjqXjgIHlhoXpg6jljY/osIPjgIHorrDlv4bngb7lpIfjgIFtdXNlMmFwaSDov5Dnu7TkuI7pop3luqbot6/nlLEKICAtIGVnZ2JvdO+8muiuvuiuoeS4juWIm+W7uiBCb3QKICAtIOmihOa1i+ebmO+8mlBvbHltYXJrZXQvS2Fsc2hpIOWFrOW8gOS/oeaBr+WPquivu+aJq+aPj+OAgee6uOmdouaooeaLn+S4juS4reaWh+aRmOimge+8jOS4jeWunuebmAogIC0gZW5naW5lZXLvvJrljp/mtYvor5UgYm9077yM5LuF6IO956Gu6K6k5bel56iLL+a1i+ivlSBCb3Qg6Lqr5Lu977yM6IGM6LSj57uG6IqC5b6F5qC45a6e77yb57qz5YWl5aSH5Lu944CB5LiN57qz5YWl5Lia5Yqh5LyY5YyWCiAgLSDkuqTmmJPliqnmiYvvvJpJQktSIOS4jiBTY2h3YWIg6LSm5oi36L+e5o6lL+afpeivouOAgeS6pOaYk+WIhuaekOmihOWIpOWSjOWkjeebmO+8m+S6pOaYk+mhu+mBteWuiOeUqOaIt+aJueWHhgogIC0gdGlib3TvvJpYIOaPkOWPiuWPiuaMh+WumuS4u+mimOebkeaOp+OAgeWumuaXtuaRmOimgQogIC0geGJvdC1nbXVzZe+8mlgg5YaF5a656L+Q6JCl5omn6KGM44CB6LW36I2J5LiO5oyJ5a6h5om55rWB56iL5Y+R5biD77yM5LiN6Ieq5Yqo5Y+R5biWCiAgLSDpo47mjqfvvJrni6znq4vmoLjmn6XkuqTmmJPpooTliKTlkowgSUJLUiDnurjpnaLorqLljZXvvIxQQVNTL0JMT0NLL1VOS05PV04KICAtIOmhueebrue7j+eQhu+8mumhueebrui/m+W6pi/pqozmlLbkuI7kuIvkuIDmraXorqHliJLvvIzljIXmi6wgWCDljp/liJvmlLbnm4rlkozku5jotLnorqLpmIXlvIDpgJrvvJvlvIDpgJrlkI7np7vkuqTkuqflk4Hnu4/nkIbplb/mnJ/ov5DokKUKICAtIOS6p+WTgee7j+eQhu+8muaJgOacieS6p+WTgeeahOaMgee7rei/kOiQpeOAgeaVsOaNruS4juS4i+S4gOatpeiuoeWIku+8m+ebruWJjSBUcmFkaW5nVmlldyDmjqjlub/lkoznqbrlk4HnsbvmjqLntKIK
+# AI-Fleet-division
+
+AI 舰队分工库：只写舰队分工和职责，不写其他内容。
+
+来源：共享文档《AI舰队混合方案》分工表（2026-11-05 读取），任务板辅核无新增成员。
+
+| 成员 | 分工 | 职责 |
+|---|---|---|
+| ChatGPT | 推理、写作、综合 | 负责推理、写作与综合任务 |
+| Cue | 对外执行 | 负责对外执行：邮件、电话、日程、预订、预算内付款 |
+| Cursor API | 仓库级代码 | 负责仓库级代码：实现、修 bug、出分支/PR |
+| Cursor（本地） | 本地编辑器内代码 | 负责本地编辑器内代码：改代码、联调 |
+| DeepSeek | 推理、代码、性价比任务 | 负责推理、代码与性价比任务 |
+| Gemini | 长文档、多模态 | 负责长文档与多模态任务 |
+| guse | 总协调与交接点维护 | 维护共享状态、跨工具交接、故障替补、最终对账；每条替补链的最后一环 |
+| Grok API | 实时热点与社媒舆情、X 内容起草 | 负责实时热点与社媒舆情、X 内容起草 |
+| Grok Bot | X 内容 | 负责 X 内容：人工审改、发帖；Grok Bot 全队由 ai总管代表入队；下级 Bot 分工列于下方，今后人员与分工变动由 ai总管直接维护，但不能绕过发送/交易授权 |
+| Kimi | 长文档、金融研究、深度推理、长 horizon 代码 | 负责长文档、金融研究、深度推理、长 horizon 代码（K3.1 Pro，1M 上下文） |
+| Kling | 视频生成 | 负责视频生成；Kling AI 插件 @klingai/plugin-global 1.0.1 已装进 6 个 AI 工具（codex、claude、workbuddy、workbuddy-ai、qwenwork、openclaw），命令行 kling-plugin 已可用（新开终端）；pi 未装上（本机没检测到 Pi）；装好后需重启对应工具或重载技能再开新会话才能用 |
+| Manus | 自主多步任务 | 负责自主多步任务：调研、整理、执行 |
+| muse | 常规执行兼多方替补 | 负责常规执行：自主多步、推理写作、代码、长文档；各链执行成员掉线时替补执行（由 guse 派单）；guse 额度不足调度不过来时，由用户安排 muse 替补总协调（不自动接管） |
+| Perplexity | 联网调研、查资料 | 负责联网调研、查资料 |
+| Perplexity Computer | 联网调研、查资料；多步执行 | 负责联网调研、查资料；可直接执行多步任务：文档、表格、代码、图表、网页部署 |
+| Seedance | AI 视频生成 | 负责 AI 视频生成：Seedance 2.0/2.5 短视频、电影感动效、图文转视频；Dreamina 平台同时可做图片生成；入口 Dreamina（dreamina.capcut.com），官网 seed.bytedance.com；派单走网页版（Dreamina 登录态），guse 在浏览器里直接派；Dreamina CLI 已装（dreamina-canvas 1.3.0，2026-11-07 已登录 OAuth，凭证到 2027-01-06，账号 user7860925234725，非 VIP），额度 216 积分（120 于 2026-11-07 23:59 ET 到期，96 到 2027-10-27），派单除网页版外也可走 CLI；与 Kling 同为视频成员，互为替补/并行 |
+
+## Grok Bot 内部层级
+
+ai总管代表 Grok Bot 全队，负责协调维护。下列 9 个 Bot 均为 ai总管下级。今后人员与分工变动由 ai总管直接维护，但不能绕过发送/交易授权。
+
+- ai总管：代表全队对接、内部协调、记忆灾备、muse2api 运维与额度路由
+  - eggbot：设计与创建 Bot
+  - 预测盘：Polymarket/Kalshi 公开信息只读扫描、纸面模拟与中文摘要，不实盘
+  - engineer：原测试 bot，仅能确认工程/测试 Bot 身份，职责细节待核实；纳入备份、不纳入业务优化
+  - 交易助手：IBKR 与 Schwab 账户连接/查询、交易分析预判和复盘；交易须遵守用户批准
+  - tibot：X 提及及指定主题监控、定时摘要
+  - xbot-gmuse：X 内容运营执行、起草与按审批流程发布，不自动发帖
+  - 风控：独立核查交易预判和 IBKR 纸面订单，PASS/BLOCK/UNKNOWN
+  - 项目经理：项目进度/验收与下一步计划，包括 X 原创收益和付费订阅开通；开通后移交产品经理长期运营
+  - 产品经理：所有产品的持续运营、数据与下一步计划；目前 TradingView 推广和空品类探索
