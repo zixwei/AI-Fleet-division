@@ -18,7 +18,7 @@ AI 舰队分工库:只写舰队分工和职责,不写其他内容.
 | Kimi | 长文档,金融研究,深度推理,长 horizon 代码 | 负责长文档,金融研究,深度推理,长 horizon 代码(K3.1 Pro,1M 上下文) |
 | Kling | 视频生成 | 负责视频生成;Kling AI 插件 @klingai/plugin-global 1.0.1 已装进 6 个 AI 工具(codex,claude,workbuddy,workbuddy-ai,qwenwork,openclaw),命令行 kling-plugin 已可用(新开终端);pi 未装上(本机没检测到 Pi);装好后需重启对应工具或重载技能再开新会话才能用 |
 | Manus | 自主多步任务 | 负责自主多步任务:调研,整理,执行 |
-| muse | 常规执行兼多方替补 | 负责常规执行:自主多步,推理写作,代码,长文档;各链执行成员掉线时替补执行(由 guse 派单);guse 额度不足调度不过来时,由用户安排 muse 替补总协调(不自动接管) |
+| muse | 通用执行 | 负责通用执行，包括自主多步、推理写作、代码、长文档等执行类任务 |
 | Perplexity | 联网调研,查资料 | 负责联网调研,查资料 |
 | Perplexity Computer | 联网调研,查资料;多步执行 | 负责联网调研,查资料;可直接执行多步任务:文档,表格,代码,图表,网页部署 |
 | Seedance | AI 视频生成 | 负责 AI 视频生成:Seedance 2.0/2.5 短视频,电影感动效,图文转视频;Dreamina 平台同时可做图片生成;入口 Dreamina(dreamina.capcut.com),官网 seed.bytedance.com;派单走网页版(Dreamina 登录态),guse 在浏览器里直接派;Dreamina CLI 已装(dreamina-canvas 1.3.0,2026-11-07 已登录 OAuth,凭证到 2027-01-06,账号 user7860925234725,非 VIP),额度 216 积分(120 于 2026-11-07 23:59 ET 到期,96 到 2027-10-27),派单除网页版外也可走 CLI;与 Kling 同为视频成员,互为替补/并行 |
